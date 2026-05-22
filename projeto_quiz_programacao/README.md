@@ -20,7 +20,7 @@ Projeto Quiz Programação
 - Claude AI
 - Bubble.io
 
-- Justificativa da escolha: Escolhemos a Claude, pois ela e uma das melhores plataformas de gerar código e refatoração do mercado, em ambos as áreas front-end e back-end.
+- Justificativa da escolha: Escolhemos a Claude e o Bubble, pois ela e uma das melhores plataformas de gerar código e refatoração do mercado, em ambos as áreas front-end e back-end.
 
 ---
 
