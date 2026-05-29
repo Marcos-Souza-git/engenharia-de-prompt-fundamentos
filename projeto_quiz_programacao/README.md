@@ -18,7 +18,7 @@ Projeto Quiz Programação
 ## ⚙️ Plataforma Utilizada
 
 - Claude AI
-- Bubble.io
+- Bubble
 
 - Justificativa da escolha: Escolhemos a Claude e o Bubble, pois ela e uma das melhores plataformas de gerar código e refatoração do mercado, em ambos as áreas front-end e back-end.
 
