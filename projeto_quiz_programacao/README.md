@@ -11,7 +11,7 @@ Projeto Quiz Programação
 - file:///C:/Users/MARCOSVINICIUSSOUZAS/Downloads/index.html
   
 
-- O CodeQuiz é uma platafroma de pergntaguntas e respostas voltada para o aprendizado de programação. O usuário pode optar por escolher as linguaguens como (JavaScript, Python, CSS, SQL, Algoritmos ou Conhecimentos Gerais), e define o nível de dificuldade e responde em um determinado tempo. NO final o sistema o desempenho atual, as respostas corretas e sua posição no ranking.
+- O CodeQuiz é uma platafroma de perguntas e respostas voltada para o aprendizado de programação. O usuário pode optar por escolher as linguaguens como (JavaScript, Python, CSS, SQL, Algoritmos ou Conhecimentos Gerais), e define o nível de dificuldade e responde em um determinado tempo. NO final o sistema o desempenho atual, as respostas corretas e sua posição no ranking.
 
 ---
 
